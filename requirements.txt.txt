@@ -1,0 +1,7 @@
+
+### 2. **`requirements.txt`**
+
+```text
+pennylane
+torch
+scikit-learn
